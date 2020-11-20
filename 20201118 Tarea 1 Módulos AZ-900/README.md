@@ -4,11 +4,11 @@
 4. **Resumen del Ejercicio:** Crear una máquina virtual linux en Azure ejecutando Apache y sirviendo una página web de prueba.
 1. **Objetivos**: 
    
-      1.  ¡¡¡. 
+      1.  Crear y borrar una MV Linux en Azure, arrancar un servidor web Apache. 
       
          **Pasos**: 
       
-         1.   ¡¡¡.
+         1.   Órdenes en CLI Az y en Linux.
 6. **Dificultad o problemas presentados y como se resolvieron:** ¡¡¡.
 7. **Detalles de la entrega**:
    
