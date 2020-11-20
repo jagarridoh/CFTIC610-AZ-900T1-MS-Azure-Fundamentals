@@ -54,24 +54,24 @@ Después de actualizar, upgradear,instalar y verifcar apache:
 
 ![10-verificar-apache](Capturas/10-verificar-apache.png)
 
-
-
 Vamos a abrir el puerto 80 en el Network Security Group de Azure:
-
-
 
 ![11-abrir-puerto-en-NSG](Capturas/11-abrir-puerto-en-NSG.png)
 
-
-
-
 Realizamos alguna modificación en la página web inicial: 
-
-
-
 
 ![12-modificar-pagina-inicial](Capturas/12-modificar-pagina-inicial.png)
 
 
-
-
+![13-az-vm-stop-1](Capturas/13-az-vm-stop-1.png)
+![14-az-vm-stop-2](Capturas/14-az-vm-stop-2.png)
+![15-az-vm-deallocate-1](Capturas/15-az-vm-deallocate-1.png)
+![16-az-vm-deallocate-2](Capturas/16-az-vm-deallocate-2.png)
+![17-az-vm-start-1](Capturas/17-az-vm-start-1.png)
+![18-az-vm-start-2](Capturas/18-az-vm-start-2.png)
+![19-az-vm-delete-1](Capturas/19-az-vm-delete-1.png)
+![20-az-vm-delete-2](Capturas/20-az-vm-delete-2.png)
+![21-az-vm-show](Capturas/21-az-vm-show.png)
+![22-az-group-delete-1](Capturas/22-az-group-delete-1.png)
+![23-az-group-delete-2](Capturas/23-az-group-delete-2.png)
+![24-az-group-delete-3](Capturas/24-az-group-delete-3.png)
