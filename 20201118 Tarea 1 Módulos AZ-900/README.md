@@ -30,12 +30,7 @@ Creación del grupo de recursos:
 
 ![04-az-create-group-2](Capturas/04-az-create-group-2.png)
 
-
-
-
 Creación de la VM Linux:
-
-
 
 ![05-az-vm-create-1](Capturas/05-az-vm-create-1.png)
 
@@ -47,25 +42,15 @@ Creación de la VM Linux:
 
 ![07-az-vm-create-3](Capturas/07-az-vm-create-3.png)
 
-
-
 No pude entrar con el password puesto en la orden de creación y lo resetee, poniéndole el mismo valor:
 
 ![08-reset-pasword](Capturas/08-reset-pasword.png)
 
-
-
 Conectarse por ssh:
-
-
 
 ![09-conectarse](Capturas/09-conectarse.png)
 
-
-
 Después de actualizar, upgradear,instalar y verifcar apache:
-
-
 
 ![10-verificar-apache](Capturas/10-verificar-apache.png)
 
