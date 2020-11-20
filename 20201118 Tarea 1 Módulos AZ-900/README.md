@@ -24,11 +24,11 @@
 
 Creación del grupo de recursos:
 
-![03-az-create-group-1](.\Capturas\03-az-create-group-1.png)
+![03-az-create-group-1](Capturas/03-az-create-group-1.png)
 
 
 
-![04-az-create-group-2](.\Capturas\04-az-create-group-2.png)
+![04-az-create-group-2](Capturas/04-az-create-group-2.png)
 
 
 
