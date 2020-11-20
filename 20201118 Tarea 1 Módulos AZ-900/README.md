@@ -1,5 +1,5 @@
 1. **Nombres y apellidos:** Justo Antonio Garrido Herrador
-2. **Fecha:** entrega 19-11-2020
+2. **Fecha:** entrega 20-11-2020
 3. **Laboratorio / Demos**: UtilizacionAzureCLIparaCrearBorrarMV.md
 4. **Resumen del Ejercicio:** Crear una máquina virtual linux en Azure ejecutando Apache y sirviendo una página web de prueba.
 1. **Objetivos**: 
@@ -9,7 +9,7 @@
          **Pasos**: 
       
          1.   Órdenes en CLI Az y en Linux.
-6. **Dificultad o problemas presentados y como se resolvieron:** ¡¡¡.
+6. **Dificultad o problemas presentados y como se resolvieron:** ninguno.
 7. **Detalles de la entrega**:
    
       1. **Evidencias capturas de pantalla en carpeta**: **Capturas**. ( ruta: ...\\CFTIC610-AZ-900T1-MS-Azure-Fundamentals\20201118 Tarea 1 Módulos AZ-900CFTIC\Capturas). Índice de las capturas en este propio documento, a continuación.
