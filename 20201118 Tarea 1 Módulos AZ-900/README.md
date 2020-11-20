@@ -2,17 +2,10 @@
 2. **Fecha:** entrega 20-11-2020
 3. **Laboratorio / Demos**: UtilizacionAzureCLIparaCrearBorrarMV.md
 4. **Resumen del Ejercicio:** Crear una máquina virtual linux en Azure ejecutando Apache y sirviendo una página web de prueba.
-1. **Objetivos**: 
-   
-      1.  Crear y borrar una MV Linux en Azure, arrancar un servidor web Apache. 
-      
-         **Pasos**: 
-      
-         1.   Órdenes en CLI Az y en Linux.
-6. **Dificultad o problemas presentados y como se resolvieron:** ninguno.
-7. **Detalles de la entrega**:
-   
-      1. **Evidencias capturas de pantalla en carpeta**: **Capturas**. ( ruta: ...\\CFTIC610-AZ-900T1-MS-Azure-Fundamentals\20201118 Tarea 1 Módulos AZ-900CFTIC\Capturas). Índice de las capturas en este propio documento, a continuación.
+5. **Objetivos**: Crear y borrar una MV Linux en Azure, arrancar un servidor web Apache
+6. **Pasos**:  Órdenes en CLI Az y en Linux.
+7. **Dificultad o problemas presentados y como se resolvieron:** ninguno.
+8. **Detalles de la entrega**: Evidencias capturas de pantalla en carpeta: Capturas. ( ruta: ...\\CFTIC610-AZ-900T1-MS-Azure-Fundamentals\20201118 Tarea 1 Módulos AZ-900CFTIC\Capturas). Índice de las capturas en este propio documento, a continuación.
 
 
 
