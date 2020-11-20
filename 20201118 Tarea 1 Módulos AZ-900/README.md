@@ -37,21 +37,21 @@ Creación de la VM Linux:
 
 
 
-![05-az-vm-create-1](.\Capturas\05-az-vm-create-1.png)
+![05-az-vm-create-1](Capturas/05-az-vm-create-1.png)
 
 
 
-![06-az-vm-create-2](.\Capturas\06-az-vm-create-2.png)
+![06-az-vm-create-2](Capturas/06-az-vm-create-2.png)
 
 
 
-![07-az-vm-create-3](.\Capturas\07-az-vm-create-3.png)
+![07-az-vm-create-3](Capturas/07-az-vm-create-3.png)
 
 
 
 No pude entrar con el password puesto en la orden de creación y lo resetee, poniéndole el mismo valor:
 
-![08-reset-pasword](.\Capturas\08-reset-pasword.png)
+![08-reset-pasword](Capturas/08-reset-pasword.png)
 
 
 
@@ -59,7 +59,7 @@ Conectarse por ssh:
 
 
 
-![09-conectarse](.\Capturas\09-conectarse.png)
+![09-conectarse](Capturas/09-conectarse.png)
 
 
 
@@ -67,7 +67,7 @@ Después de actualizar, upgradear,instalar y verifcar apache:
 
 
 
-![10-verificar-apache](.\Capturas\10-verificar-apache.png)
+![10-verificar-apache](Capturas/10-verificar-apache.png)
 
 
 
@@ -75,7 +75,7 @@ Vamos a abrir el puerto 80 en el Network Security Group de Azure:
 
 
 
-![11-abrir-puerto-en-NSG](.\Capturas\11-abrir-puerto-en-NSG.png)
+![11-abrir-puerto-en-NSG](Capturas/11-abrir-puerto-en-NSG.png)
 
 
 
@@ -85,7 +85,7 @@ Realizamos alguna modificación en la página web inicial:
 
 
 
-![12-modificar-pagina-inicial](.\Capturas\12-modificar-pagina-inicial.png)
+![12-modificar-pagina-inicial](Capturas/12-modificar-pagina-inicial.png)
 
 
 
